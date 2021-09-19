@@ -1,0 +1,16 @@
+#inicio{
+
+	background-image: url("git.gif");
+	padding: 100px;
+	background-clip: padding-box;
+	border: 2px solid black;
+}
+
+body{
+
+	background-color: ghostwhite;
+	font-family: cursive;
+	font-size: medium;
+	filter: alpha(opacity=80);
+
+}
